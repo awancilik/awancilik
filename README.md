@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=awancilik&layout=compact)
