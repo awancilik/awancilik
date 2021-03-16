@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Full Timer Knowledge Worker in one of largest palm oil companies in the world.
 - 🌱 I’m currently learning Rust, Go and Docker
 - 😄 Pronouns: He/Him
+
+
+
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=awancilik)
