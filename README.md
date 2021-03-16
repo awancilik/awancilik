@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Github stats](https://github-readme-stats.vercel.app/api?username=awancilik&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=awancilik)
 -->
 
 - 🔭 I’m currently working as Full Timer Knowledge Worker in one of largest palm oil companies in the world.
@@ -21,6 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 
-
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=awancilik)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
