@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Github stats](https://github-readme-stats.vercel.app/api?username=awancilik&theme=highcontrast&show_icons=true&count_private=true)
 -->
 
 - 🔭 I’m currently working as Full Timer Knowledge Worker in one of largest palm oil companies in the world.
 - 🌱 I’m currently learning Rust, Go and Docker
 - 😄 Pronouns: He/Him
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=awancilik&theme=highcontrast&show_icons=true&count_private=true)
