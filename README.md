@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as Full Timer in one of largest palm oil companies in the world.
-- 🌱 I’m currently learning Rust, Go and Docker
+- 🌱 I’m currently learning Docker
 - 😄 Pronouns: He/Him
 
 
