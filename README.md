@@ -24,4 +24,9 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=awancilik&layout=compact&hide=html)
 
+<details>
+  <summary>Github Stats</summary>
+  
 ![Awancilik's GitHub stats](https://github-readme-stats.vercel.app/api?username=awancilik&show_icons=true&theme=merko)
+  
+ </details>
