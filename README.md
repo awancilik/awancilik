@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <details>
   <summary>Github Stats</summary>
   
-![Awancilik's GitHub stats](https://github-readme-stats.vercel.app/api?username=awancilik&show_icons=true&theme=merko)
+![Awancilik's GitHub stats](https://github-readme-stats.vercel.app/api?username=awancilik&show_icons=true&theme=tokyonight)
   
  </details>
