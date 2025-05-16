@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=awancilik)
 -->
 
-- 🔭 I’m currently working as a contract employee in one of the global consulting firms.
-- 🌱 I’m currently learning Docker, Cloud Computing.
 - 😄 Pronouns: He/Him
 
 
